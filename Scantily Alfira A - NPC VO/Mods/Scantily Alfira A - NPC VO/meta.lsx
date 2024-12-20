@@ -9,19 +9,19 @@
           <attribute id="Author" type="LSString" value="Goonsack" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
           <attribute id="Description" type="LSString" value="Give Alfira outfits from Scantily Camp Outfit." />
-          <attribute id="Folder" type="LSString" value="Scantily Alfira A - NPC VO"/>
+          <attribute id="Folder" type="LSString" value="Scantily Alfira A - NPC VO" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="Scantily Alfira A - NPC VO"/>
+          <attribute id="Name" type="FixedString" value="Scantily Alfira A - NPC VO" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
           <attribute id="Tags" type="LSString" value="" />
           <attribute id="Type" type="FixedString" value="Add-on" />
-          <attribute id="UUID" type="FixedString" value="10d0702a-5d51-4601-a520-2aa465f9b4ce"/>
+          <attribute id="UUID" type="FixedString" value="10d0702a-5d51-4601-a520-2aa465f9b4ce" />
           <attribute id="Version64" type="int64" value="36028797018963968" />
           <children>
             <node id="PublishVersion">
